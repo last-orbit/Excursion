@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: Center;
+    color: white;
+}
+
+h4 {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: gray;
+}
+
+.video {
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.guide {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.midp {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+.camp,.iphone {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.logo {
+    text-align: right;
+}
