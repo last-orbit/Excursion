@@ -14,6 +14,7 @@ h4 {
     color: aquamarine;
     font-size: 16px;
     text-align: center;
+    text-decoration: underline;
 }
 
 h3{
@@ -21,12 +22,6 @@ h3{
     color: gray;
 }
 
-.video {
-    background-color: black;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
 
 .guide {
     font-family: Verdana;
@@ -34,13 +29,13 @@ h3{
     font-size: 42px;
 }
 
-.midp {
+.sub-guide {
     font-family: verdana;
     font-size: 21px;
     color: gray;
 }
 
-.camp,.iphone {
+.video,.camp,.iphone {
     margin-left: auto;
     margin-right: auto;
     display: block;
